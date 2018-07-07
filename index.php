@@ -11,7 +11,7 @@
 | Register composer
 |--------------------------------------------------------------------------
 |
-| Composer provides a generated class loader for the application.
+| Composer provides a generated class loader for the application. XD
 |
 */
 
